@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:white;
+}
+
+.container{
+    text-align:center;
+    margin-top:50px;
+}
+
+h1{
+    color:brown;
+    font-size:45px;
+    margin-bottom:25px;
+}
+
+.name{
+    color:blue;
+    font-weight:bold;
+}
+
+.school{
+    color:red;
+    font-weight:bold;
+}
+
+.total{
+    color:purple;
+    font-weight:bold;
+}
+
+.score{
+    color:green;
+    font-weight:bold;
+}

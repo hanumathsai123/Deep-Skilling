@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DeepSkilling",
+    "\\DeepSkilling\\Module 1 - Design Patterns and Principles",
+    "\\DeepSkilling\\Module 1 - Design Patterns and Principles\\AdapterPatternExample",
+    "\\DeepSkilling\\Module 1 - Design Patterns and Principles\\AdapterPatternExample\\Adapters",
+    "\\DeepSkilling\\Module 1 - Design Patterns and Principles\\AdapterPatternExample\\Gateways",
+    "\\DeepSkilling\\Module 1 - Design Patterns and Principles\\AdapterPatternExample\\PaymentProcessors"
+  ],
+  "SelectedNode": "\\DeepSkilling\\Module 1 - Design Patterns and Principles\\AdapterPatternExample\\Gateways\\PayPalGateway.cs",
+  "PreviewInSolutionExplorer": false
+}

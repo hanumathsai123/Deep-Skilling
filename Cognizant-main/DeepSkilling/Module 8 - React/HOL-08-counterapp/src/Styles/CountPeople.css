@@ -1,0 +1,43 @@
+.container{
+
+    display:flex;
+
+    justify-content:space-around;
+
+    align-items:center;
+
+    margin-top:180px;
+
+}
+
+.box{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:8px;
+
+}
+
+button{
+
+    background-color:lightgreen;
+
+    border:2px solid gray;
+
+    padding:4px 10px;
+
+    cursor:pointer;
+
+    font-weight:bold;
+
+}
+
+span{
+
+    font-size:20px;
+
+    font-weight:bold;
+
+}
